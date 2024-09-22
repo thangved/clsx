@@ -54,7 +54,7 @@
   ],
   "devDependencies": {
     "esm": "3.2.25",
-    "terser": "4.8.0",
+    "terser": "^4.8.1",
     "uvu": "0.5.4"
   }
 }
